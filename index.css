@@ -1,0 +1,21 @@
+#root{
+    display:flex;
+    flex-wrap: wrap;
+    text-align: center !important;
+}
+img{
+    width:200px;
+    height: 200px;
+    
+}
+.card{
+    border: 1px solid black;
+    width: 50%px;
+    height: 400px !important;
+    
+} 
+.btn-primary{
+    color:blue;
+    font-size: large;
+    
+}
